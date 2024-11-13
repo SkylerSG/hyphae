@@ -49,5 +49,6 @@
     "tailwindcss": "^3.4.14",
     "typescript": "^5.5.2",
     "vite": "^5.3.1"
-  }
+  },
+  "typings": "index.d.ts"
 }

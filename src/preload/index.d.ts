@@ -1,5 +1,10 @@
+export {}
+
 declare global {
   interface Window {
-    context: {}
+    // electron: ElectronAPI
+    context: {
+      locale: string
+    }
   }
 }
