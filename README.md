@@ -1,34 +1,7 @@
-# hyphae-study
+## WORK IN PROGRESS
 
-An Electron application with React and TypeScript
+---
 
-## Recommended IDE Setup
+# Electron App for Flashcards, Note-taking, Memorization, and Study
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-## Project Setup
-
-### Install
-
-```bash
-$ yarn
-```
-
-### Development
-
-```bash
-$ yarn dev
-```
-
-### Build
-
-```bash
-# For windows
-$ yarn build:win
-
-# For macOS
-$ yarn build:mac
-
-# For Linux
-$ yarn build:linux
-```
+# Working on specifically building a for quick, personalized learning.
