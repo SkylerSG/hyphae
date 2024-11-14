@@ -1,7 +1,13 @@
 import React from 'react'
 import { Route, BrowserRouter as Router, Routes } from 'react-router-dom'
-import { FlashCardLearnScreen } from './components/FlashCardLearnScreen'
-import { MainScreen } from './components/MainScreen'
+import { FileScreen } from './components/pages/FileScreen'
+import { FlashCardLearnScreen } from './components/pages/FlashCardLearnScreen'
+import { InformationScreen } from './components/pages/InformationScreen'
+import { MainScreen } from './components/pages/MainScreen'
+import { ProfileScreen } from './components/pages/ProfileScreen'
+import { RankingsScreen } from './components/pages/RankingsScreen'
+import { SettingsScreen } from './components/pages/SettingsScreen'
+import { StatsScreen } from './components/pages/StatsScreen'
 
 const App: React.FC = () => {
   return (
@@ -9,6 +15,12 @@ const App: React.FC = () => {
       <Routes>
         <Route path="/" element={<MainScreen />} />
         <Route path="/flashcard" element={<FlashCardLearnScreen />} />
+        <Route path="/settings" element={<SettingsScreen />} />
+        <Route path="/stats" element={<StatsScreen />} />
+        <Route path="/rankings" element={<RankingsScreen />} />
+        <Route path="/information" element={<InformationScreen />} />
+        <Route path="/files" element={<FileScreen />} />
+        <Route path="/profile" element={<ProfileScreen />} />
       </Routes>
     </Router>
   )

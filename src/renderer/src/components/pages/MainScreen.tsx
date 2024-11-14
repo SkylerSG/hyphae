@@ -1,5 +1,5 @@
-import { SetPreviewBox } from './SetPreviewBox'
-import { Sidebar } from './Sidebar'
+import { SetPreviewBox } from '../SetPreviewBox'
+import { Sidebar } from '../Sidebar'
 
 export const MainScreen = () => {
   return (
