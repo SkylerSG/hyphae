@@ -18,7 +18,7 @@ export const Sidebar = () => {
         <IoSettingsOutline />
       </div>
       <div
-        className="ml-auto mr-auto mt-2 mb-2 p-2 hover:bg-slate-400/25"
+        className="ml-auto mr-auto mt-2 mb-2 p-2 rounded-md hover:bg-slate-400/25"
         onClick={() => handleNavigate('/stats')}
       >
         <IoStatsChartOutline />
