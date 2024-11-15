@@ -1,0 +1,97 @@
+{
+  "appVersion": "1.0",
+  "uniqueSetID": "000",
+  "title": "European Capitals",
+  "cards": [
+    {
+      "cardNumber": "0",
+      "question": "What is the capital of France?",
+      "answer": "Paris"
+    },
+    {
+      "cardNumber": "1",
+      "question": "What is the capital of Germany?",
+      "answer": "Berlin"
+    },
+    {
+      "cardNumber": "2",
+      "question": "What is the capital of Italy?",
+      "answer": "Rome"
+    },
+    {
+      "cardNumber": "3",
+      "question": "What is the capital of Spain?",
+      "answer": "Madrid"
+    },
+    {
+      "cardNumber": "4",
+      "question": "What is the capital of Portugal?",
+      "answer": "Lisbon"
+    },
+    {
+      "cardNumber": "5",
+      "question": "What is the capital of the Netherlands?",
+      "answer": "Amsterdam"
+    },
+    {
+      "cardNumber": "6",
+      "question": "What is the capital of Belgium?",
+      "answer": "Brussels"
+    },
+    {
+      "cardNumber": "7",
+      "question": "What is the capital of Switzerland?",
+      "answer": "Bern"
+    },
+    {
+      "cardNumber": "8",
+      "question": "What is the capital of Austria?",
+      "answer": "Vienna"
+    },
+    {
+      "cardNumber": "9",
+      "question": "What is the capital of Poland?",
+      "answer": "Warsaw"
+    },
+    {
+      "cardNumber": "10",
+      "question": "What is the capital of the Czech Republic?",
+      "answer": "Prague"
+    },
+    {
+      "cardNumber": "11",
+      "question": "What is the capital of Hungary?",
+      "answer": "Budapest"
+    },
+    {
+      "cardNumber": "12",
+      "question": "What is the capital of Slovakia?",
+      "answer": "Bratislava"
+    },
+    {
+      "cardNumber": "13",
+      "question": "What is the capital of Slovenia?",
+      "answer": "Ljubljana"
+    },
+    {
+      "cardNumber": "14",
+      "question": "What is the capital of Croatia?",
+      "answer": "Zagreb"
+    },
+    {
+      "cardNumber": "15",
+      "question": "What is the capital of Bosnia and Herzegovina?",
+      "answer": "Sarajevo"
+    },
+    {
+      "cardNumber": "16",
+      "question": "What is the capital of Serbia?",
+      "answer": "Belgrade"
+    },
+    {
+      "cardNumber": "17",
+      "question": "What is the capital of Montenegro?",
+      "answer": "Podgorica"
+    }
+  ]
+}

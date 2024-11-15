@@ -23,6 +23,8 @@
   "dependencies": {
     "@electron-toolkit/preload": "^3.0.1",
     "@electron-toolkit/utils": "^3.0.0",
+    "fs-extra": "^11.2.0",
+    "lodash": "^4.17.21",
     "react-router-dom": "^6.28.0",
     "tailwind-merge": "^2.5.4"
   },
